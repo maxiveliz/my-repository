@@ -14,4 +14,6 @@ La remotización del banco centrífugo contempló el armado de un sitio web util
 
 ![[banco_centrífugo_controles.PNG]]
 
+Para acceder a la experiencia se puede ingresar al siguiente link: 
 [Link de la experiencia](https://proyecto-bancov1.web.app/)
+
