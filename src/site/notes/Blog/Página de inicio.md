@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/blog/pagina-de-inicio/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/blog/pagina-de-inicio/","dgPassFrontmatter":true}
 ---
 
 Bienvenidos a mi mente!
