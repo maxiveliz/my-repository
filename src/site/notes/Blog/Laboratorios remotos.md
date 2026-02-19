@@ -7,4 +7,9 @@
 En la Universidad Nacional de General Sarmiento se encuentran tres proyectos de laboratorios remotos.
 
 
-![imagen1.jpeg](/img/user/Blog/imagen1.jpeg)
+
+# Banco de ensayos de ventilador centrífugo
+
+[[banco_centrífugo_controles.PNG]]}
+
+[Link de la experiencia](https://proyecto-bancov1.web.app/)
