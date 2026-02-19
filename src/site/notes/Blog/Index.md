@@ -18,7 +18,7 @@
 # Proyecto de servicios
 
 * Acción de Desarrollo Tecnológico y Social sin financiamiento específico “Modelos estratégicos de acceso remoto y control de equipos de laboratorio con herramientas de código abierto". Director: Maximiliano E. Véliz
-	* Proyecto 1: Laboratorio remotizado de sistemas trifásicos.
+	* Proyecto 1: Laboratorio remotizado de sistemas trifásicos. [[Blog/Laboratorios remotos\|Laboratorios remotos]]
 	* Proyecto 2: Laboratorio remoto de Banco Centrífugo.
 	* Proyecto 3: Laboratorio remoto de cinta transportadora con visión artificial.
 * Proyecto PIO CyT UNGS: "Diseño y fabricación de sistemas embebidos para el
