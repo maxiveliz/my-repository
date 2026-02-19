@@ -3,4 +3,6 @@
 ---
 
 
-Bienvenidos a mis proyectos
+# Proyecto de investigación
+
+* Sistema de adquisición de datos y control 
