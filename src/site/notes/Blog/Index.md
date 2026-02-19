@@ -23,7 +23,7 @@
 	* Proyecto 3: Laboratorio remoto de cinta transportadora con visión artificial.
 * Proyecto PIO CyT UNGS: "Diseño y fabricación de sistemas embebidos para el
 reporte instantáneo de costo de energía eléctrica, detección de umbrales de tensión y gestión eficiente de la energía. Hacia la construcción de un Observatorio del Consumo Eléctrico en edificios
-públicos del Conurbano Bonaerense".
+públicos del Conurbano Bonaerense". Resolución Rectoral N° 31474 / 2025. Director: Maximiliano E. Véliz
 	
 ## Formación de Recursos Humanos
 
