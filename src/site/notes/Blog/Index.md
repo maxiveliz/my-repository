@@ -11,4 +11,5 @@
 
 * Práctica Profesional Supervisada "Desarrollo de un prototipo de instrumento IoT para la medición del consumo eléctrico en organizaciones sociales sin fines de lucro" . Estudiante: Federico Vea. Director: Maximiliano E. Véliz.
 
-* Proyecto final de carrera:  "Vivero Hidropónico Automatizado". Estudiante Facundo Manfé. Director: Maximiliano E. Véliz.
+* Proyecto final de carrera y adscripción en investigación:  "Vivero Hidropónico Automatizado". Estudiante Facundo Manfé. Director: Maximiliano E. Véliz.
+
