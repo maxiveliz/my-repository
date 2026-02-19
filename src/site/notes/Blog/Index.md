@@ -21,6 +21,10 @@
 	* Proyecto 1: Laboratorio remotizado de sistemas trifásicos.
 	* Proyecto 2: Laboratorio remoto de Banco Centrífugo.
 	* Proyecto 3: Laboratorio remoto de cinta transportadora con visión artificial.
+* Proyecto PIO CyT UNGS: "Diseño y fabricación de sistemas embebidos para el
+reporte instantáneo de costo de energía eléctrica, detección de umbrales de tensión y gestión eficiente de la energía. Hacia la construcción de un Observatorio del Consumo Eléctrico en edificios
+públicos del Conurbano Bonaerense".
+	
 ## Formación de Recursos Humanos
 
 * Becas estudiantes, dedicación simple: Ariel Rivero - Diego González. Director: Maximiliano E. Véliz
