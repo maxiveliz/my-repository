@@ -21,5 +21,10 @@
 	* Proyecto 1: Laboratorio remotizado de sistemas trifásicos.
 	* Proyecto 2: Laboratorio remoto de Banco Centrífugo.
 	* Proyecto 3: Laboratorio remoto de cinta transportadora con visión artificial.
+## Formación de Recursos Humanos
+
+* Becas estudiantes, dedicación simple: Ariel Rivero - Diego González. Director: Maximiliano E. Véliz
+* Proyecto final de carrera: "Sistema Remotizado del Banco Centrífugo". Estudiante: Hernán Costantini. Director: Maximiliano E. Véliz
+* Práctica Profesional Supervisada: Montaje y protecciones de una estación remota de trabajo. Estudiante: Ariel Martinez. Director: Maximiliano E. Véliz.
 
 
