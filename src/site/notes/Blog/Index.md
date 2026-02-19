@@ -23,12 +23,14 @@
 	* Proyecto 3: Laboratorio remoto de cinta transportadora con visión artificial.
 * Proyecto PIO CyT UNGS: "Diseño y fabricación de sistemas embebidos para el
 reporte instantáneo de costo de energía eléctrica, detección de umbrales de tensión y gestión eficiente de la energía. Hacia la construcción de un Observatorio del Consumo Eléctrico en edificios
-públicos del Conurbano Bonaerense". Resolución Rectoral N° 31474 / 2025. Director: Maximiliano E. Véliz
+públicos del Conurbano Bonaerense". Resolución Rectoral N° 31474 / 2025. Director: Maximiliano E. Véliz.
 	
 ## Formación de Recursos Humanos
 
 * Becas estudiantes, dedicación simple: Ariel Rivero - Diego González. Director: Maximiliano E. Véliz
 * Proyecto final de carrera: "Sistema Remotizado del Banco Centrífugo". Estudiante: Hernán Costantini. Director: Maximiliano E. Véliz
 * Práctica Profesional Supervisada: Montaje y protecciones de una estación remota de trabajo. Estudiante: Ariel Martinez. Director: Maximiliano E. Véliz.
+* 1 Beca graduado/a: "Diseño industrial de un sistema de medición de energía "
+* 2 becas estudiantes de escuela secundaria UNGS: "La construcción de gestores energéticos"
 
 
