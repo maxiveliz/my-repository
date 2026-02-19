@@ -31,6 +31,6 @@ públicos del Conurbano Bonaerense". Resolución Rectoral N° 31474 / 2025. Dire
 * Proyecto final de carrera: "Sistema Remotizado del Banco Centrífugo". Estudiante: Hernán Costantini. Director: Maximiliano E. Véliz
 * Práctica Profesional Supervisada: Montaje y protecciones de una estación remota de trabajo. Estudiante: Ariel Martinez. Director: Maximiliano E. Véliz.
 * 1 Beca graduado/a: "Diseño industrial de un sistema de medición de energía "
-* 2 becas estudiantes de escuela secundaria UNGS: "La construcción de gestores energéticos"
+* 2 becas estudiantes de escuela secundaria UNGS: "La construcción de asesores energéticos"
 
 
