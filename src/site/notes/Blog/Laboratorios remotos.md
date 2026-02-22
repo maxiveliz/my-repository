@@ -13,6 +13,7 @@ En la Universidad Nacional de General Sarmiento se encuentran tres proyectos de 
 La remotización del banco centrífugo contempló el armado de un sitio web utilizando las funciones de Firebase para hostear y controlar el hardware.
 
 
+![[componentes_centrifugo.PNG]] 
 
 
 
