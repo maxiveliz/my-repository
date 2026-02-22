@@ -10,7 +10,7 @@ El usuario puede configurar los algoritmos, puede operar sobre las condiciones d
 El banco de ensayos permite: 
 * Realizar pruebas concretas sobre la cinta transportadora.
 * Cargar el algoritmo correspondiente.
-* Ver el desempeño en directo del sistema antes de llevarlo a la implementación industrial.
+
 
 ![cinta_transportadora.jpeg](/img/user/Blog/cinta_transportadora.jpeg) 
 
