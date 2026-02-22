@@ -6,7 +6,7 @@ En la Universidad Nacional de General Sarmiento se encuentran tres proyectos de 
 
 1.  Laboratorio remotizado de sistemas trifásicos.
 2.  Laboratorio de Banco de Ventilador Centrífugo.
-3.  Laboratorio de Cinta Transportadora con Visión Artificial.
+3.  Laboratorio de Cinta Transportadora --> [[Blog/Cinta Transportadora con Visión Artificial\|Cinta Transportadora con Visión Artificial]] 
 
 # Banco de ensayos de ventilador centrífugo
 
