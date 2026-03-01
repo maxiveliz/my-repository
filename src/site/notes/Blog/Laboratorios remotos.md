@@ -13,8 +13,8 @@ En la Universidad Nacional de General Sarmiento se encuentran tres proyectos de 
 # Plataforma remotizada para el estudio de sistemas trifásicos
 
 
+![remotos_sistemas_trifasicos.png](/img/user/Blog/remotos_sistemas_trifasicos.PNG)
 
-![[remotos_sistemas_trifasicos.PNG]]
 
 
 # Banco de ensayos de ventilador centrífugo
