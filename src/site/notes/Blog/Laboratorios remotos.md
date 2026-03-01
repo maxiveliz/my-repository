@@ -16,6 +16,9 @@ En la Universidad Nacional de General Sarmiento se encuentran tres proyectos de 
 ![[remotos_sistemas_trifasicos.PNG]]
 
 
+![[tablero_de_control.PNG]]
+
+
 
 
 # Banco de ensayos de ventilador centrífugo
