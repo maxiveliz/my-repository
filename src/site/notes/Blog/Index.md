@@ -36,3 +36,6 @@ públicos del Conurbano Bonaerense". Resolución Rectoral N° 31474 / 2025. Dire
 * 2 becas estudiantes de escuela secundaria UNGS: "La construcción de asesores energéticos"
 
 
+# Línea de investigación
+
+[[Redes Eléctricas Inteligentes\|Redes Eléctricas Inteligentes]] es la propuesta como nueva línea de investigación.
