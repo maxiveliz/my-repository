@@ -29,8 +29,7 @@ Sr. Facundo Adaro
 * Correo electrónico
 * Mensajería instantánea
 * Servidor universitario
-
-![[arquitectura.PNG]]
+![arquitectura.jpg](/img/user/arquitectura.jpg)
 
 ##  Herramientas
 
