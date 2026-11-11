@@ -4,11 +4,11 @@
 
 # La ingeniería de producto
 
-El diseño de producto contempló los siguientes ítems. 
-
-
-[ingenieria_producto.jpeg](/img/user/ingenieria_producto.jpeg)
 
 
 
+![ingenieria_producto.jpeg](/img/user/ingenieria_producto.jpeg)
+
+
+![ingenieria_producto2.jpeg](/img/user/ingenieria_producto2.jpeg)
 
