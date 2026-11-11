@@ -12,3 +12,9 @@
 
 ![ingenieria_producto2.jpeg](/img/user/ingenieria_producto2.jpeg)
 
+# Los aspectos de la automatización de la información
+
+* Correo electrónico
+* Mensajería instantánea
+* Servidor universitario
+
