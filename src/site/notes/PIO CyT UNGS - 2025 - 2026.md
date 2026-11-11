@@ -30,7 +30,6 @@ Sr. Facundo Adaro
 * Mensajería instantánea
 * Servidor universitario
 
-
 ![[arquitectura.PNG]]
 
 ##  Herramientas
