@@ -4,5 +4,7 @@
 
 
 
-Integra tecnología de sincronización en el desarrollo de laboratorios avanzados.
+Integra un laboratorio de sincronización
+
+
 
