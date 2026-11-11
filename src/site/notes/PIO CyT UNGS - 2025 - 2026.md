@@ -9,7 +9,7 @@ El proyecto contempló el diseño y desarrollo de un medidor de energía eléctr
 # Equipo
 
 Prof. Ing. Maximiliano E. Véliz, Phd
-Ing. Agustina Kloster
+Prof. Ing. Agustina Kloster
 Sr. Facundo Manfé
 Sr. Facundo Adaro
 
