@@ -2,13 +2,16 @@
 {"dg-publish":true,"permalink":"/pio-cy-t-ungs-2025-2026/","dgPassFrontmatter":true}
 ---
 
+# Resumen
+
+El proyecto contempló el diseño y desarrollo de un medidor de energía eléctrica, con la posibilidad de facturación instantánea.
+
 # Equipo
 
 Prof. Ing. Maximiliano E. Véliz, Phd
 Ing. Agustina Kloster
 Sr. Facundo Manfé
 Sr. Facundo Adaro
-
 
 
 # La ingeniería de producto
