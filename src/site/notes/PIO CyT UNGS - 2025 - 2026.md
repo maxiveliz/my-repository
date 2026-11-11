@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/pio-cy-t-ungs-2025-2026/","dgPassFrontmatter":true}
 ---
 
+# Equipo
+
+
+
+
+
 # La ingeniería de producto
 
 
