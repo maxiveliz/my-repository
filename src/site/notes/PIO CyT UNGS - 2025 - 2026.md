@@ -4,6 +4,9 @@
 
 # Equipo
 
+Prof. Ing. Maximiliano E. Véliz, Phd
+Ing. Agustina Kloster
+Sr. Facundo Manfé
 
 
 
