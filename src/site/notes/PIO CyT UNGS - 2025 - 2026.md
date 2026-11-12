@@ -16,6 +16,10 @@ Sr. Facundo Adaro
 
 # La ingeniería de producto Por Agustina Kloster
 
+Concepto
+
+![concepto.png](/img/user/concepto.png)
+
 
 
 
